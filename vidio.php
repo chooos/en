@@ -1,2 +1,2 @@
 #EXTM3U
-<?php include('/home/rosyidco/public_html/HAH/pidio.php');?>
+<?php include('https://iptv-wow.my.id/tv/kampung/usee.php?channel=animax&token=taufiq');?>
